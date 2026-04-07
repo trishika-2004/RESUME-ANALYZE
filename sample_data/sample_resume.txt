@@ -1,0 +1,15 @@
+
+    trishka
+     Python Developer
+    Skills:
+    Python, SQL, Git, REST API, Problem Solving,
+    Communication, Teamwork, Data Structures, Linux
+
+    Experience:
+    2 years of Python development
+    Database management using SQL and Oracle
+    Built REST APIs using Flask
+
+    Education:
+    B.Tech Computer Science
+    

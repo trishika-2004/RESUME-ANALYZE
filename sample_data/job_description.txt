@@ -1,0 +1,17 @@
+Job Title: Software Developer
+
+We are looking for a skilled Software Developer with experience in the following areas:
+
+Required Skills:
+- Python programming
+- SQL and database management
+- REST API development
+- Git version control
+- Problem solving and data structures
+- Communication and teamwork
+
+Good to Have:
+- Java
+- Machine learning
+- Cloud platforms like AWS or Azure
+- Docker and Kubernetes
